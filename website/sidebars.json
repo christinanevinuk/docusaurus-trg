@@ -3,8 +3,8 @@
     "Technical Reference Guide": ["doc1", "trg-01"],
     "User Journeys Overview": ["doc2", "doc9"],
     "Commission a Service": ["doc3"]
-    "Build a Service": [""]
-    "Deploy a Service": ["deploy-environments","deploy-version","deploy-orchestrator","deploy-deployment"]
+    "Build a Service" ["docs9"]
+    "Deploy a Service" ["deploy-environments","deploy-version","deploy-orchestrator","deploy-deployment"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
