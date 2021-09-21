@@ -5,15 +5,12 @@ sidebar_label: Introduction
 ---
 ## The Technical Reference Guide
 The Technical Reference Guide (TRG) provides information on:
+- the technical activities needed to build and operate services on the Tax Platform (aka the MDTP)
+- the tools in use within all the DDCs
+- the steps needed to set up the tools and environments needed to do your job
+- go-to people who can answer questions on each tool external information and learning sources for each tool.
 
-the technical activities needed to build and operate services on the Tax Platform (aka the MDTP)
-the tools in use within all the DDCs
-the steps needed to set up the tools and environments needed to do your job
-go-to people who can answer questions on each tool external information and learning sources for each tool.
 
-___
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
-____
 ## Mauris In Code
 
 ```
@@ -22,7 +19,8 @@ Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat 
 
 ## Nulla
 
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+Nulla facilisi.
+>Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
 
 ## Orci
 
