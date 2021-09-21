@@ -1,7 +1,7 @@
 ---
-id: doc9
-title: This is Doc 9
-sidebar_label: Document 9
+id: docs9
+title: This is Docs 9
+sidebar_label: Document 9s
 ---
 ## Markdown Syntax
 I am referencing a [document](doc1.md).
