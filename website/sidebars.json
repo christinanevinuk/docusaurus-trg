@@ -1,10 +1,11 @@
 {
   "docs": {
-    "Technical Reference Guide": ["doc1", "trg-01"],
-    "User Journeys Overview": ["doc2", "doc9"],
-    "Commission a Service": ["doc3"]
-    "Build a Service" ["docs9"]
-    "Deploy a Service" ["deploy-environments","deploy-version","deploy-orchestrator","deploy-deployment"]
+    "Docusaurus": [
+      "doc1",
++     "doc9"
+    ],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
