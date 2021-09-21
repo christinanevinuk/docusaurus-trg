@@ -2,9 +2,9 @@
   "docs": {
     "Technical Reference Guide": [
       "doc1",
-     "docs9"
+     "doc9"
     ],
-    "First Category": ["doc2"],
+    "First Category": ["doc2", "doc9"],
     "Second Category": ["doc3"]
   },
   "docs-other": {
