@@ -1,8 +1,10 @@
 {
   "docs": {
     "Technical Reference Guide": ["doc1", "trg-01"],
-    "First Category": ["doc2", "doc9"],
-    "Second Category": ["doc3"]
+    "User Journeys Overview": ["doc2", "doc9"],
+    "Commission a Service": ["doc3"]
+    "Build a Service": ["doc3"]
+    "Deploy a Service": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
