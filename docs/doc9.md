@@ -3,7 +3,7 @@ id: doc9
 title: TRG Information
 sidebar_label: More on TRG
 ---
-Welcome to more TRG information.
+Welcome to more Technical Reference Guide (TRG) information.
 
 The pages within this section of the DTRG provide a high-level overview of the various aspects of MDTP for new joiners, or, existing users of the platform who would like to refresh their understanding on a particular topic relevant to MDTP. Here's some info on markdown for GitHub:
 

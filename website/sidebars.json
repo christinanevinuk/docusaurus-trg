@@ -1,9 +1,6 @@
 {
   "docs": {
-    "Technical Reference Guide": [
-      "doc1",
-     "doc9"
-    ],
+    "Technical Reference Guide": ["doc1", "trg-01"],
     "First Category": ["doc2", "doc9"],
     "Second Category": ["doc3"]
   },
