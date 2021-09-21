@@ -1,6 +1,9 @@
 ---
 id: doc4
-title: Other Document
+title: A Non-API Document
+sidebar_label: About TRG APIs
 ---
 
-this is another document
+The cake is a lie.
+
+Not actually API documentation for the TRG.

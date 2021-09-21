@@ -30,7 +30,7 @@ class Users extends React.Component {
           <div className="showcaseSection">
             <div className="prose">
               <h1>Who is Using This?</h1>
-              <p>This project is used by many folks</p>
+              <p>This project is used by many folks in the MDTP</p>
             </div>
             <div className="logos">{showcase}</div>
             {siteConfig.repoUrl && (
@@ -39,7 +39,7 @@ class Users extends React.Component {
                 <a
                   href={`${siteConfig.repoUrl}/edit/master/website/siteConfig.js`}
                   className="button">
-                  Add your company
+                  Add your service team here!
                 </a>
               </React.Fragment>
             )}

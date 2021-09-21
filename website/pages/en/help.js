@@ -43,7 +43,7 @@ function Help(props) {
           <header className="postHeader">
             <h1>Need help?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
+          <p>This project is maintained by a dedicated group of people. For more information, see the <i>[insert names of MDTP Slack channels etc here]</i></p>
           <GridBlock contents={supportLinks} layout="threeColumn" />
         </div>
       </Container>

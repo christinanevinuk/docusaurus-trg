@@ -1,6 +1,7 @@
 ---
 id: doc5
-title: Fifth Document
+title: API again
+sidebar_label: API beta
 ---
 
-Another one
+Also a lie.
