@@ -1,7 +1,7 @@
 ---
 id: doc9
 title: TRG Information
-sidebar_label: More on TRG
+sidebar_label: Info on TRG
 ---
 Welcome to more Technical Reference Guide (TRG) information.
 

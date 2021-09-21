@@ -1,9 +1,8 @@
 {
   "docs": {
-    "Technical Reference Guide": ["doc1"],
-    "First Category": ["doc2"],
+    "Technical Reference Guide": ["doc9"],
+    "User Journeys Overview": ["trg-01"],
     "Deploy a Service": ["deploy-environments","deploy-version","deploy-orchestrator","deploy-deployment"]
-    "Adding more stuff": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
