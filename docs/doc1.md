@@ -1,15 +1,19 @@
 ---
 id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+title: Introduction to the TRG
+sidebar_label: Introduction
 ---
+# The Technical Reference Guide
+The TRG provides information on:
 
+the technical activities needed to build and operate services on the Tax Platform (aka the MDTP)
+the tools in use within all the DDCs
+the steps needed to set up the tools and environments needed to do your job
+go-to people who can answer questions on each tool external information and learning sources for each tool.
+
+___
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
-
-## Lorem
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
-
+____
 ## Mauris In Code
 
 ```
