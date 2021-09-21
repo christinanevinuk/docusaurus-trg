@@ -5,6 +5,6 @@
     "Deploy a Service": ["deploy-environments","deploy-version","deploy-orchestrator","deploy-deployment"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "API Help": ["doc4", "doc5"]
   }
 }
