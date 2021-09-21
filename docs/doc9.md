@@ -1,10 +1,14 @@
 ---
 id: doc9
-title: This is Doc 9
-sidebar_label: Document 9
+title: TRG Information
+sidebar_label: More on TRG
 ---
-## Markdown Syntax
-I am referencing a [document](doc1.md).
+Welcome to more TRG information.
+
+The pages within this section of the DTRG provide a high-level overview of the various aspects of MDTP for new joiners, or, existing users of the platform who would like to refresh their understanding on a particular topic relevant to MDTP. Here's some info on markdown for GitHub:
+
+### Markdown Syntax
+You can also see the [Introduction](doc1.md).
 
 I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
