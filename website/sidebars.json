@@ -2,7 +2,7 @@
   "docs": {
     "Technical Reference Guide": ["doc1"],
     "User Journey": ["trg-01"],
-    "Deployment": ["deploy-version","deploy-deployment"]
+    "Deployment": ["deploy-version", "deploy-deployment"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
