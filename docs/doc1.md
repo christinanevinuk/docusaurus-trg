@@ -3,7 +3,7 @@ id: doc1
 title: Introduction to the TRG
 sidebar_label: Introduction
 ---
-# The Technical Reference Guide
+## The Technical Reference Guide
 The Technical Reference Guide (TRG) provides information on:
 
 the technical activities needed to build and operate services on the Tax Platform (aka the MDTP)
