@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'The MDTP Technical Reference Guide', // Title for your website.
+  title: 'MDTP Technical Reference Guide', // Title for your website.
   tagline: 'A guide for your service building',
   url: 'https://christinanevin.github.io', // Your website URL
   baseUrl: '/docusaurus-trg/', // Base URL for your project */
@@ -40,7 +40,7 @@ const siteConfig = {
   headerLinks: [
     {doc: 'doc1', label: 'TRG'},
     {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
+    {page: 'help', label: 'Contact'},
     {blog: true, label: 'Blog'},
   ],
 
@@ -54,7 +54,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#433d85',
+    primaryColor: '#06AF8F',
     secondaryColor: '#2e2a5d',
   },
 
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} HMRC Multi-channel Digital Tax Platform`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
