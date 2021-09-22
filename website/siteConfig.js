@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'MDTP Technical Reference Guide', // Title for your website.
-  tagline: 'A guide for your service building',
+  tagline: 'The resource for your service building',
   url: 'https://christinanevin.github.io', // Your website URL
   baseUrl: '/docusaurus-trg/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -31,7 +31,7 @@ const siteConfig = {
 
   // Used for publishing and more
   projectName: 'docusaurus-trg',
-  organizationName: 'christinanevin',
+  organizationName: 'christinanevinuk',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
