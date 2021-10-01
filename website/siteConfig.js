@@ -48,7 +48,7 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  headerIcon: 'img/favico.ico',
   footerIcon: 'img/favicon.ico',
   favicon: 'img/favicon.ico',
 
