@@ -1,7 +1,7 @@
 {
   "docs": {
     "Technical Reference Guide": ["doc1"],
-    "User Journey": ["trg-01", "testpage"],
+    "User Journey": ["trg-01", "hello-world.js", "testpage"],
     "Deployment": ["deploy-version", "deploy-deployment"]
   },
   "docs-other": {
