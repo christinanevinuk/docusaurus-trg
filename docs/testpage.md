@@ -7,11 +7,8 @@ This page shows you how to create a Team.
 
 A team **\<team>** is created by the service team and Platform Support.
 
-> A team should be named after the digital service it is responsible for. For example, the TCS team is named for its Tax Credits Service (TCS) digital service, the Personal Tax Account (PTA) team is named its Personal Tax Account (PTA) digital service, etc.
-
->check.
-
->The majority of teams are known by an acronym in upper case e.g. TCS, PTA
+> A team should be named after the digital service it is responsible for.
+For example, the TCS team is named for its Tax Credits Service (TCS) digital service, the Personal Tax Account (PTA) team is named its Personal Tax Account (PTA) digital service, etc.<br>The majority of teams are known by an acronym in upper case e.g. TCS, PTA
 
 ## Set up comms
 1. Create the team Google Group mailing list - see the [Google Groups Guide](https://confluence.tools.tax.service.gov.uk/display/TOOLS/Google+Groups)
