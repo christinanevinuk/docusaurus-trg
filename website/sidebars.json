@@ -1,8 +1,8 @@
 {
   "docs": {
     "Technical Reference Guide": ["doc1"],
-    "User Journey": ["trg-01", "hello-world.js", "testpage"],
-    "Deployment": ["deploy-version", "deploy-deployment"]
+    "User Journey": ["trg-01", "testpage"],
+    "Deployment": ["deploy-version", "deploy-deployment", "deploy-orchestrator"]
   },
   "docs-other": {
     "API Help": ["doc4", "doc5"]
