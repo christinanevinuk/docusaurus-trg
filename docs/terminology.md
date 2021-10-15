@@ -1,10 +1,12 @@
 ---
-title: Terminology
-weight: 20
+title: terminology
 owner: comms_manager
+last_reviewed_on: 2021-09-18
+review_in: 8 weeks
 ---
 
 # Terminology
+These are terms which are commonly used throughout the TRG. If there is a term you think we have missed, please inform us here: <u>*Link to a Slack channel*</u>
 
 | Term | Description
 --- | ---

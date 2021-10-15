@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Technical Reference Guide": ["doc1"],
+    "Technical Reference Guide": ["doc1", "terminology"],
     "User Journey": ["trg-01"],
     "Deployment": ["deploy-version", "deploy-deployment"]
   },
