@@ -1,6 +1,7 @@
 ---
 title: Terminology
 weight: 20
+owner: comms_manager
 ---
 
 # Terminology
